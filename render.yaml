@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: api-catnat
+    env: docker
+    dockerfilePath: ./Dockerfile
